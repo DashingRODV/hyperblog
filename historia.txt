@@ -4,7 +4,13 @@ Hoy hablaremos de su historia
 
 Rodirgo esta aprendiendo Git y Github
 espera poder trabajar pronto con un equípo
+
+Experimento 1
+
+Master 1 
+
 Mañana nos enfocaremos en su vida laboral
+
 Este proyecto es open source
 
 Master 2
